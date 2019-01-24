@@ -1042,5 +1042,5 @@ plt.legend();
 ```
 
 
-![png](https://github.com/JNeuda/Visualizing-Stock-Prices/blob/master/output_14_0.png
+![png](https://github.com/JNeuda/Visualizing-Stock-Prices/blob/master/output_14_0.png)
 
